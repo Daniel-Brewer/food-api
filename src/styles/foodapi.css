@@ -1,0 +1,13 @@
+h2 {
+ border: dashed;
+ border-color: red;
+}
+
+h3 {
+    border: dashed;
+    border-color: blueviolet;  
+}
+.fooddiv {
+    border:solid;
+    border-color: black;
+}
